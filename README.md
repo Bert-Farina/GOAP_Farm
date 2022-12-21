@@ -40,4 +40,6 @@ Solo la gallina podrá entrar al granero pequeño, siendo demasiado pequeño par
 
 ## Video de ejemplo
 
+[![Haz click para acceder al video Demo en Youtube](https://img.youtube.com/vi/rjETboEhwiA/0.jpg)](https://www.youtube.com/watch?v=rjETboEhwiAE)
+
 https://www.youtube.com/watch?v=rjETboEhwiA
